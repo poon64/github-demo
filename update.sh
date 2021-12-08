@@ -1,1 +1,2 @@
-#Test gor update in ansible for devops
+#Test for update in ansible for devops
+ls -hal /opt/myapp/
